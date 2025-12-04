@@ -6453,3 +6453,5 @@ Sampler Limit: 32
 [2025.12.04-10.57.24:189][425]AssetCheck: /Engine/BasicShapes/BasicShapeMaterial Validating asset
 [2025.12.04-10.57.24:189][425]AssetCheck: /Game/Trash/BP_Ascenseur Validating asset
 [2025.12.04-10.57.24:239][425]LogSourceControl: Display: Uncontrolled Changelist persistency file saved D:/POUSSET_MAtheo/Programation/POU_MAT_Plat/Saved/SourceControl/UncontrolledChangelists.json
+[2025.12.04-10.57.35:087][509]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.49:50189, Sequence=0
+[2025.12.04-10.57.35:087][509]LogUdpMessaging: Warning: FUdpMessageProcessor::UpdateReassemblers Discarding 1/2 of stale message segements from Sender=192.168.180.49:50189, Sequence=0
